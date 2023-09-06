@@ -728,6 +728,8 @@ body.dark-theme{
 
 .contact__card-description{
   font-size: var(--smaller-font-size);
+  word-wrap: break-word;
+  word-break: break-all;
 }
 
 .contact__card-button{
